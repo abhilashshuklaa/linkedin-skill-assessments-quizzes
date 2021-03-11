@@ -134,7 +134,7 @@
 
 #### Q22. You offer a downloadable music file called Sample Tone on your website. What is the best way to configure the components to track this event?
 - [ ] Hit: Download // Event: Sample Tone // Content: Music
-- [ ] Category: Music // Action: Download // Label: Sample Tone
+- [x] Category: Music // Action: Download // Label: Sample Tone
 - [ ] Category: Download // Event: Music // Label: Sample Tone
 - [ ] Hit: Music // Event: Download //Content: Sample Tone
 
@@ -183,7 +183,7 @@
 #### Q30. Refer to the two following URLs. How can you make this data more readable in Google Analytics by mapping the actual product names to the ID in the URL? `.../shop/?ProductID=1234` `.../shop/?ProductID=5678`
 - [ ] Configure calculated metrics.
 - [ ] Use a custom import.
-- [ ] This functionality is not possible.
+- [x] This functionality is not possible.
 - [ ] Create a search and replace filter.
 
 #### Q31. What is this report an example of?
@@ -236,7 +236,7 @@
 
 #### Q39. Your website has a logged in experience for users. What do you implement to track individual engagement across multiple sessions and multiple devices?
 - [ ] Client- [ ] ID
-- [ ] User- [ ] ID
+- [x] User- [ ] ID
 - [ ] cross- [ ] domain tracking
 - [ ] session unification
 
@@ -267,7 +267,7 @@
 #### Q44. What can you use as the basis for remarketing within Google Ads?
 - [ ] dynamics
 - [ ] personas
-- [ ] audiences
+- [x] audiences
 - [ ] tags
 
 #### Q45. If you want to exclude traffic to your website from people on your company network, what do you create?
@@ -301,7 +301,7 @@
 - [ ] User > Hit > Session
 
 #### Q50. Which feature would allow you to navigate between multiple reports while comparing the data collected for visitors in Los Angeles to the data for visitors in London?
-- [ ] segments
+- [x] segments
 - [ ] filters
 - [ ] views
 - [ ] dimensions
@@ -358,7 +358,7 @@
 - [ ] Behavior > Events > Overview
 - [ ] Acquisition > Social > Form Submissions
 - [ ] Acquisition > Social > Users Flow
-- [ ] No report contains this information.
+- [x] No report contains this information.
 
 #### Q60.If you want to quickly see what days and times were most popular for visiting your site, what do you do?
 - [ ] Go to Home > Users by time of day (Widget)
